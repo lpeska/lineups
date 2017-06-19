@@ -2,6 +2,7 @@
 This repository contains source codes for the project: Recommender Systems for Police Photo Lineups. More information on the project can be found in paper Peska & Trojanova: Towards Recommender Systems for Police Photo Lineup, http://www.ksi.mff.cuni.cz/~peska/lineup/paper.pdf
 
 Dataset of candidates attribute-based as well as visual-based features, accompanied with the implicit feedback from the forensic technicians received during the user-study on assembling lineups is available from:
+https://zenodo.org/record/814222
 
 
 
